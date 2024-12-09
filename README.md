@@ -8,11 +8,11 @@ Part 1 - Requirements
 3) Install Node js
 4) Install libraries
 
-Part 2
+Part 2 - Set up
 1) Put dataset in folder
 2) open certain py files and change file directory
 3) run train_gpu (optional)
 
-Part 3
+Part 3 - User manual
 1) Run progam, upload
 2) Results will show
