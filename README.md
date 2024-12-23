@@ -1,5 +1,5 @@
 This is the link for Speech Emotion Recognition System folder
-https://studentsswinburneedu-my.sharepoint.com/:f:/g/personal/101215504_students_swinburne_edu_my/EpfAc0xZCWhAuWbdXrA5nG8B9gDj_OftbhIrQW6gVyXgFw?e=yXEt9u
+https://studentsswinburneedu-my.sharepoint.com/:f:/g/personal/101215504_studentsswinburneedu_onmicrosoft_com/Emh4rI4JnQNNqpIphjIDa_kB1fMot8z8r2B3J4BCLKs7Qg
 
 Step-by-step guide
 Part 1 - Requirements
